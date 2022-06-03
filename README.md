@@ -44,3 +44,11 @@ Dispositivo del IoT . El shield es capaz de controlar en modo ON/OFF al menos 2 
 | :---         |   :---:  |  ---:      |
 | ESP32        |    IO15  |    IO2     |
 |              |   ADC2_2 | ADC2_3     |
+
+
+# Licencia
+Hardware License: CERN OHL v1.0 para más información visitar el siguiente Link.
+
+Software License: GPL v3
+
+Documentation License: CC BY 4.0 International
