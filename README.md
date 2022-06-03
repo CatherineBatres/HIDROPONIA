@@ -47,7 +47,7 @@ Dispositivo del IoT . El shield es capaz de controlar en modo ON/OFF al menos 2 
 
 
 # Licencia
-Hardware License: CERN OHL v1.0 para más información visitar el siguiente Link.
+Hardware License: CERN OHL v1.0 para más información visitar el siguiente [Link.](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-1.2)
 
 Software License: GPL v3
 
