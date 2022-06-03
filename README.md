@@ -21,7 +21,7 @@ Sensores y componentes electrónicos:
 
 # ¿Cómo funciona?
 
-###Sensores controlados por medio de la tarjeta ESP32 Wrover programada a través del IDE de Arduino, se alimenta de una fuente de 5V. 
+Sensores controlados por medio de la tarjeta ESP32 Wrover programada a través del IDE de Arduino, se alimenta de una fuente de 5V. 
 Cada uno de los sensores utilizados activan y controlan otros componentes electrónicos como el buzzer y los neopixels dependiendo de la indormación adquirida. 
 
 
