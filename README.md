@@ -2,12 +2,27 @@
 
 
 ![image](https://user-images.githubusercontent.com/68393777/171800489-6ebd88d2-d5e2-44ba-8a83-f5459466abc7.png)
-![image](https://user-images.githubusercontent.com/68393777/171801513-a2ba2d13-bcc0-4817-86a4-3fd2797a9008.png)
 
 
+Dispositivo IoT cuyo shield es capaz de controlar en modo ON/OFF al menos 2 cargas para 12V DC. Además tiene la capacidad de recibir el input de un sensor de nivel de agua, de un sensor de humedad y sensor de flujo. 
 
 
-Dispositivo del IoT . El shield es capaz de controlar en modo ON/OFF al menos 2 cargas para 12V DC. Además tiene la capacidad de recibir el input de un sensor de nivel de agua, de un sensor de humedad y sensor de flujo. 
+Sensores y componentes electrónicos:
+
+-ESP32
+-Sensor de humedad
+-Sensor de nivel del agua
+-Sensor medidor de flujo
+-Pantalla OLED
+-Buzzer
+-NeoPixeles
+-Sensor SHT30
+-Relés
+
+#¿Cómo funciona?
+Sensores controlados por medio de la tarjeta ESP32 Wrover programada a través del IDE de Arduino, se alimenta de una fuente de 5V. 
+Cada uno de los sensores utilizados activan y controlan otros componentes electrónicos como el buzzer y los neopixels dependiendo de la indormación adquirida. 
+
 
 # Descripción de pines 
 
