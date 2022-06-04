@@ -19,10 +19,11 @@ Sensores y componentes electrónicos:
 -Sensor SHT30
 -Relés
 
-# ¿Cómo funciona?
+# Funcionamiento
 
-Sensores controlados por medio de la tarjeta ESP32 Wrover programada a través del IDE de Arduino, se alimenta de una fuente de 5V. 
+Sensores controlados por medio de la tarjeta ESP32 Wrover programada a través del IDE de Arduino y esta se alimenta de una fuente de 5V. 
 Cada uno de los sensores utilizados activan y controlan otros componentes electrónicos como el buzzer y los neopixels dependiendo de la indormación adquirida. 
+Además, la data proporcionada por el shield y los sensores contenidos en él son mostrados a través de una applicación con una comunicación MQTT. 
 
 
 # Descripción de pines 
@@ -69,6 +70,8 @@ Cada uno de los sensores utilizados activan y controlan otros componentes electr
 | ESP32        |    IO15  |    IO2     |
 |              |   ADC2_2 | ADC2_3     |
 
+#Finalidad
+El dispositivo IoT busca proporcionar al usuario un sistema de Hidroponía el cual pueda recopilar datos por medio de sensores sin necesidad de la interacción humana. El dueño del dispositivo tendrá acceso a la información sintetizada en su celular. 
 
 # Licencia
 Hardware License: CERN OHL v1.0 para más información visitar el siguiente [Link.](https://ohwr.org/project/cernohl/wikis/Documents/CERN-OHL-version-1.2)
