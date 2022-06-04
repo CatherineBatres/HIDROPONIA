@@ -36,26 +36,34 @@ Además, la data proporcionada por el shield y los sensores contenidos en él so
 |              | SDA SD1  | SDA SD0  |
 
 
-### Control Cargas AC 
+### Control Cargas 
 
-| Referencia   | Carga 1 | Carga 2 | Carga 3 |
-| :---         |    :---:|    ---: | ---:    |
-| ESP32        |  IO25   |  IO26   |   IO27  |
+| Referencia   | Carga 1 | Carga 2 | 
+| :---         |    :---:|    ---: |
+| ESP32        |  IO14   |  IO15   | 
 
 
-### LED Neopixel - Comunicación SPI
+### LED Neopixel 1
 
 | Referencia | WS2812B |
 | -------- | ----- |
-|  ESP32   |  SD3  |
-|    5V    |  VCC  |
+|  ESP32   |  IO2  |
+|    5V    |  VBUS |
+|   GND    |  GND  |
+
+### LED Neopixel 2
+
+| Referencia | WS2812B |
+| -------- | ----- |
+|  ESP32   |  SD2  |
+|    5V    |  VBUS |
 |   GND    |  GND  |
 
 ### Buzzer 
 
 | Referencia   |  Buzzer | 
 | :---         |   :---: |
-| ESP32        |    IO5  |        
+| ESP32        |    IO4  |        
 
 ### Monitoreo Cargas AC 
 
