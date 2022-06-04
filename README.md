@@ -30,7 +30,7 @@ Además, la data proporcionada por el shield y los sensores contenidos en él so
 
 ### Pantalla OLED SSD 1306, Temperatura y Humedad – Comunicación I2C
 
-| Referencia   | SSD 1306 | SHT30 |
+| Referencia   |  SH1106  | SHT30 |
 | :---         |    :---: |    ---:  |
 | ESP32        | SCL IO22 | SCL IO22 |
 |              | SCL IO23 | SDA IO23 |
