@@ -69,7 +69,7 @@ Además, la data proporcionada por el shield y los sensores contenidos en él so
 | Referencia   |          | 
 | :---         |   :---:  |  
 | ESP32        |    IO15  |  
-|     GND      |     GND      | 
+|     GND      |    GND   | 
 
 #Finalidad
 El dispositivo IoT busca proporcionar al usuario un sistema de Hidroponía el cual pueda recopilar datos por medio de sensores sin necesidad de la interacción humana. El dueño del dispositivo tendrá acceso a la información sintetizada en su celular. 
