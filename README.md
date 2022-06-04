@@ -65,12 +65,11 @@ Además, la data proporcionada por el shield y los sensores contenidos en él so
 | :---         |   :---: |
 | ESP32        |    IO4  |        
 
-### Monitoreo Cargas AC 
-
-| Referencia   | SCT 013  | Voltaje AC | 
-| :---         |   :---:  |  ---:      |
-| ESP32        |    IO15  |    IO2     |
-|              |   ADC2_2 | ADC2_3     |
+### Sensor nivel de agua 
+| Referencia   |          | 
+| :---         |   :---:  |  
+| ESP32        |    IO15  |  
+|              |   ADC2_2 | 
 
 #Finalidad
 El dispositivo IoT busca proporcionar al usuario un sistema de Hidroponía el cual pueda recopilar datos por medio de sensores sin necesidad de la interacción humana. El dueño del dispositivo tendrá acceso a la información sintetizada en su celular. 
