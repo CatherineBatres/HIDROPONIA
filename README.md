@@ -68,7 +68,22 @@ Además, la data proporcionada por el shield y los sensores contenidos en él so
 ### Sensor nivel de agua 
 | Referencia   |          | 
 | :---         |   :---:  |  
-| ESP32        |    IO15  |  
+| ESP32        |    IO5  | 
+|    5V    |  VBUS |
+|     GND      |    GND   | 
+
+### Sensor Humedad Suelo 
+| Referencia   |          | 
+| :---         |   :---:  |  
+| ESP32        |    IO12  | 
+|    5V    |  VBUS |
+|     GND      |    GND   | 
+
+### Sensor Flujo de Agua
+| Referencia   |          | 
+| :---         |   :---:  |  
+| ESP32        |    IO13  | 
+|    5V    |  VBUS |
 |     GND      |    GND   | 
 
 #Finalidad
