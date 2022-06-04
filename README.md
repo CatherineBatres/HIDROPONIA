@@ -32,14 +32,8 @@ Además, la data proporcionada por el shield y los sensores contenidos en él so
 
 | Referencia   |  SH1106  | SHT30 |
 | :---         |    :---: |    ---:  |
-| ESP32        | SCL IO22 | SCL IO22 |
-|              | SCL IO23 | SDA IO23 |
-
-
-| SSD 1306 | SHT30 |
-| -------- | ----- |
-| SCL IO22 | SCL IO22 |
-| SDA IO23 | SDA IO23 |
+| ESP32        | SCL CLK  | SCL CLK  |
+|              | SDA SD1  | SDA SD0  |
 
 
 ### Control Cargas AC 
