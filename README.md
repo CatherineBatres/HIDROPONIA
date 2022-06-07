@@ -1,8 +1,6 @@
 # HIDROPONIA
 
 
-![image](https://user-images.githubusercontent.com/68393777/171800489-6ebd88d2-d5e2-44ba-8a83-f5459466abc7.png)
-
 
 Dispositivo IoT cuyo shield es capaz de controlar en modo ON/OFF al menos 2 cargas para 12V DC. Además tiene la capacidad de recibir el input de un sensor de nivel de agua, de un sensor de humedad y sensor de flujo. 
 
