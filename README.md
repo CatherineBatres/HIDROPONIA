@@ -1,6 +1,9 @@
 # HIDROPONIA
 
 
+![image](https://user-images.githubusercontent.com/68393777/172915791-3206a361-0881-4b04-9cbe-e16f91586fb2.png)
+
+
 
 Dispositivo IoT cuyo shield es capaz de controlar en modo ON/OFF al menos 2 cargas para 12V DC. Además tiene la capacidad de recibir el input de un sensor de nivel de agua, de un sensor de humedad y sensor de flujo. 
 
@@ -96,5 +99,4 @@ Documentation License: CC BY 4.0 International
 
 # OSHW certification
 Nombre del proyecto: Hidroponía https://certification.oshwa.org/list.html
-![image](https://user-images.githubusercontent.com/68393777/172915705-270b99bb-d43e-4bff-b909-109f572123ba.png)
 
