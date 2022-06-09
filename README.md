@@ -94,5 +94,5 @@ Software License: GPL v3
 
 Documentation License: CC BY 4.0 International
 
-# OSHW certificatio
+# OSHW certification
 Nombre del proyecto: Hidroponía https://certification.oshwa.org/list.html
