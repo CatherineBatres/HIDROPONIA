@@ -1,7 +1,7 @@
 # HIDROPONIA
 
 
-![image](https://user-images.githubusercontent.com/68393777/172915791-3206a361-0881-4b04-9cbe-e16f91586fb2.png)
+![image](https://user-images.githubusercontent.com/68393777/172917775-bb3973b5-c60d-4ba2-8d9b-734f90fc43fe.png)
 
 
 
