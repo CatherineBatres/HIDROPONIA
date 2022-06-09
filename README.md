@@ -100,3 +100,6 @@ Documentation License: CC BY 4.0 International
 # OSHW certification
 Nombre del proyecto: Hidroponía https://certification.oshwa.org/list.html
 
+![image](https://user-images.githubusercontent.com/68393777/172915957-5cc7b7a1-707c-45e9-ab2c-dc7d5b201ed2.png)
+
+
