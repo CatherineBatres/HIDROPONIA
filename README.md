@@ -93,3 +93,6 @@ Hardware License: CERN OHL v1.0 para más información visitar el siguiente [Lin
 Software License: GPL v3
 
 Documentation License: CC BY 4.0 International
+
+# OSHW certification
+file:///C:/Users/USUARIO/Downloads/oshw_facts.svg 
